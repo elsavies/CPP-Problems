@@ -13,7 +13,7 @@ void search(int y);
 int main()
 {
     search(0);
-    cout << countResults;
+    cout << countResults << "\n";
 }
 
 void search(int y)
